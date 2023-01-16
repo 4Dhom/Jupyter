@@ -1,5 +1,5 @@
 # Jupyter
-# Učení Jupyter Notebooku a Knihoven:
+Učení Jupyter Notebooku a Knihoven:
 # Numpy
 # Pandas
 # Matpolib
