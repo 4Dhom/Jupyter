@@ -1,0 +1,9 @@
+jmeno,symbol,obezna_poloosa,obezna_doba,mesice,je_obr,ma_prstenec
+Merkur,☿,0.39,0.24,0,False,False
+Venuše,♀,0.72,0.62,0,False,False
+Země,⊕,1.0,1.0,1,False,False
+Mars,♂,1.52,1.88,2,False,False
+Jupiter,♃,5.2,11.86,79,True,True
+Saturn,♄,9.54,29.46,82,True,True
+Uran,♅,19.22,84.01,27,True,True
+Neptun,♆,30.06,164.8,14,True,True
